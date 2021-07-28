@@ -1,0 +1,15 @@
+.header-color{
+    background-color: #FFF9F4;
+}
+
+.google-font{
+    font-family: 'Bebas Neue', cursive !important;
+    font-weight: 700;
+}
+.card-img{
+    background-color: #F1F1F1;
+}
+body{
+    overflow: inherit !important;
+    overflow-x: hidden !important;
+}
